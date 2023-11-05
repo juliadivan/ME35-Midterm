@@ -2,14 +2,14 @@ import paho.mqtt.client as mqtt
 import requests
 
 # Replace with your Adafruit IO username, AIO key, and feed names
-AIO_USERNAME = 'juliadivan'
-AIO_KEY = 'aio_gqdc75VHOnzcXtT11mw60sHizmQM'
-FEED_NAME = 'color'
+AIO_USERNAME = 'USERNAME'
+AIO_KEY = 'AIOKEY'
+FEED_NAME = 'FEEDNAME'
 
-API_KEY = 'keyoGR09SuvJLCt4T'
+API_KEY = 'APIKEY'
 
 # Replace with your Airtable base ID
-BASE_ID = 'appEjXmQqx3vCE9oC'
+BASE_ID = 'BASEID'
 
 # Replace with your Airtable table name
 TABLE_NAME = 'ME35'
